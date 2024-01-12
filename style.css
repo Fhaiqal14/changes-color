@@ -28,7 +28,7 @@ body {
     padding: 20px;
 }
 .box {
-    background-color: #f7f7f7f7;
+    background-color: skyblue;
     width: 80%;
     padding: 24px;
     border-radius: 20px;
@@ -51,6 +51,9 @@ body {
     -o-border-radius: 50%;
 }
 
+.white {
+    background-color: white;
+}
 .red {
     background-color: red;
 }
